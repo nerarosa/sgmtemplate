@@ -1,0 +1,43 @@
+/* Main Font */	body {
+	font-family:"Roboto";
+	background:#ffffff;
+}
+.first_section {
+	background-image:url("https://gt3themes.com/wp-content/themes/gt3themes/img/bgs/bg1.png");
+}
+/* Headers */
+h1 {font-size:44px;line-height:42px;}
+h2 {font-size:37px;line-height:37px;}
+h3,	.blog_post_preview h3 a, .blog_post_preview .preview_topblock h1 {font-size:30px;line-height:32px;}
+h4, 
+h3#reply-title, 
+h3#reply-title small {font-size:24px;line-height:28px;}
+h5 {font-size:17px;line-height:24px;}
+h6 {font-size:16px;line-height:24px;}
+/* Main Color2 */
+a:hover { color: #e55353;	}
+.sidepanel li a:hover,
+.sidepanel .tagcloud a:hover,
+.product_tags .tagcloud a:hover {color: #e55353;}
+.sidepanel li a:hover:before {color: #e55353;}
+.shortcode_button.btn_type2,
+.mc_submit,
+.mc_signup_submit .button {background:#e55353;}
+.blog_post_preview h3 a:hover {color:#e55353;}
+.read_more:hover, .more-link:hover {color:#e55353;}
+.preview_meta span.preview_meta_author:hover:before,
+.preview_meta span.preview_meta_comments:hover:before {color:#e55353;}
+.preview_meta span.preview_meta_author:hover a,
+.preview_meta span.preview_meta_comments:hover a,
+.faq_docs {color:#e55353;}
+.wpcf7-submit,
+#comments input[type="submit"] {background-color:#e55353;}
+/* Main Color */
+::selection {background:#7ba520;}
+::-moz-selection {background:#7ba520;}
+.shortcode_button.btn_type1,
+.view_details:hover {background:#7ba520;}
+.read_more,	.more-link {color:#7ba520;}
+a, .help_forum {color:#7ba520;}
+.products_optionset ul li a:hover {color:#7ba520;}
+.product_item_info h3 a:hover {color:#7ba520;}
