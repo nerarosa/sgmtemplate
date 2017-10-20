@@ -2136,7 +2136,7 @@ h2.entry-title {
     font-weight:700;
     color:#f56d6d;
     display:inline-block;
-    padding-left:12px;
+    padding-left:30px;
     position:relative;
     vertical-align:top;
 }
@@ -2144,8 +2144,8 @@ h2.entry-title {
     position:absolute;
     left:0px;
     top:4px;
-    content:'$';
-    font-size:20px;
+    content:'VND';
+    font-size:14px;
     font-weight:400;
     color:#f56d6d;
 }
