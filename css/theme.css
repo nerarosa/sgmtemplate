@@ -694,8 +694,8 @@ header .sub-menu .sub-menu li:first-child:before {display:none;}
     position:absolute;
     left:50%;
     top:50%;
-    margin:-20px 0 0 -70px;
-    width:141px;
+    margin:-20px 0 0 -60px;
+    width:120px;
     height:40px;
     border-radius:4px;
     -webkit-border-radius:4px;
