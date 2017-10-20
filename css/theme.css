@@ -907,6 +907,7 @@ hr.type1 {
     height:1px;
     border:0;
     position:relative;
+	overflow: visible;
     background: #d6dee2; /* Old browsers */
     background: -moz-linear-gradient(left,  #ffffff 0%, #f7f9f9 10%, #edf1f2 20%, #e2e8eb 30%, #207cca 30%, #e2e8eb 30%, #dae1e5 40%, #d6dee2 50%, #dae1e5 60%, #e2e8eb 70%, #edf0f2 80%, #f7f8f9 90%, #ffffff 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffffff), color-stop(10%,#f7f9f9), color-stop(20%,#edf1f2), color-stop(30%,#e2e8eb), color-stop(30%,#207cca), color-stop(30%,#e2e8eb), color-stop(40%,#dae1e5), color-stop(50%,#d6dee2), color-stop(60%,#dae1e5), color-stop(70%,#e2e8eb), color-stop(80%,#edf0f2), color-stop(90%,#f7f8f9), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
