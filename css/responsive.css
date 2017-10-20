@@ -78,7 +78,7 @@
 		position:absolute;
 		top:37px;
 		right:30px;
-		background:url(../img/mobile_menu.png) no-repeat;
+		background:url(https://lh3.googleusercontent.com/-zf3lbeXV1Hs/WepTnGTUtRI/AAAAAAAAEyA/PTZ50zZNFvk0H6v1v-OCpRUOSjHFDCvqACKgBGAs/s1600/mobile_menu.png) no-repeat;
 	}
 	.mobile_menu_wrapper {
 		padding:0;
@@ -524,27 +524,25 @@
 
 /*retina*/
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 144dpi) {
-	header .logo img.logo_def {display:none!important;
-	}
-	header .logo img.logo_retina {display:block!important;
-	}
+	header .logo img.logo_def {display:none!important;}
+	header .logo img.logo_retina {display:block!important;}
 	.back2top {
 		background-image:url(../images/retina/palette_icons.png) !important;
 		background-size:200px 150px !important;
 		-webkit-background-size:200px 150px !important;
 	}
 	.expander a:after {
-		background-image:url(../img/retina/expand_triangle.png) !important;
+		background-image:url(https://lh4.googleusercontent.com/-ZdqaxTvqojI/WepU7W5P2LI/AAAAAAAAEyg/aO3I-nXhhcMpUbB5oY2B0iGtiXFh4GGLwCKgBGAs/s1600/expand_triangle_retina.png) !important;
 		background-size:9px 5px !important;
 		-webkit-background-size:9px 5px !important;
 	}
 	.socials li a {
-		background-image: url(../img/retina/socials_sprite.png) !important;
+		background-image: url(https://lh4.googleusercontent.com/-es9oY273Tj8/WepU7U1blRI/AAAAAAAAEyg/LpWopr6vHU8tbDVr0kwZ4fMOtQ3k9aFWwCKgBGAs/s1600/socials_sprite_retina.png) !important;
 		background-size:178px 48px !important;
 		-webkit-background-size:178px 48px !important;
 	}
 	.menu_toggler {
-		background:url(../img/retina/mobile_menu.png) no-repeat !important;
+		background:url(https://lh3.googleusercontent.com/-zf3lbeXV1Hs/WepTnGTUtRI/AAAAAAAAEyA/PTZ50zZNFvk0H6v1v-OCpRUOSjHFDCvqACKgBGAs/s1600/mobile_menu.png) no-repeat !important;
 		background-size:20px 20px!important;
 		-webkit-background-size:20px 20px!important;
 	}
